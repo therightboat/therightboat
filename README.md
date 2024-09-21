@@ -2,7 +2,6 @@
 
 **Location:** Lubbock, TX  
 **Email:** [brandon.boatright@outlook.com](mailto:brandon.boatright@outlook.com)  
-**Phone:** 806-939-1110  
 **LinkedIn:** [linkedin.com/in/brandonboatright](https://www.linkedin.com/in/brandonboatright/)
 
 ---
