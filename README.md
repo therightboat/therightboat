@@ -6,15 +6,21 @@
 
 ---
 
-### Supervisory Team Lead | Cloud Solutions | Data Analytics
+### Supervisory Team Lead | Cloud Solutions | Data Analytics | SaaS
 
 ---
 
 ## About Me
 
-Hi, I'm Brandon Boatright, an experienced Supervisory Team Lead with a passion for solving complex business problems through data-driven solutions and the latest technology. With a strong background in software support, cloud computing, and team leadership, I thrive in fast-paced environments where adaptability, multi-tasking, and technical expertise are crucial.
+Hi, I'm Brandon Boatright, an experienced Supervisory Team Lead with a passion for solving complex business problems through data-driven solutions and the latest technology. With a strong background in software support (SaaS), cloud computing, and team leadership, I thrive in fast-paced environments where adaptability, multi-tasking, and technical expertise are crucial.
 
-I believe in the power of organization and efficiency when it comes to managing both projects and teams. To streamline workflows and ensure that projects are delivered on time, I leverage tools like **Asana** and **Microsoft OneNote** to keep tasks organized, track progress, and prioritize actions. Recently, I've started exploring **Tableau** as part of my ongoing commitment to enhancing my data visualization skills, ensuring that I can communicate insights even more effectively to stakeholders.
+I believe in the power of organization and efficiency when managing both projects and teams. To streamline workflows and ensure timely project delivery, I use tools like **Asana** and **Microsoft OneNote** to organize tasks, track progress, and prioritize actions. Recently, I've begun exploring **Tableau** to enhance my data visualization skills, further improving my ability to communicate insights effectively to stakeholders. During my time as an analyst and throughout my studies at Texas Tech University, I have experience developing data-driven solutions to address real-world and organizational challenges, utilizing tools such as **GitHub**, **Power BI**, **SQL**, and various internal systems at my current employer.
+
+
+## Projects
+### [View My Projects Portfolio](https://github.com/therightboat/portfolio)
+- A collection of projects showcasing my work in data analysis and visualization.
+
 
 ---
 
@@ -72,14 +78,7 @@ Concentrations: Human Resource Management, Data Analytics, Marketing
 
 ## Projects
 
-1. **[Power BI Business Trends Dashboard](#)**  
-   - Analyzed and visualized business performance trends, showcasing key metrics and KPIs for Tyler Technologies.
 
-2. **[SQL-Based Data Automation for Client Billing](#)**  
-   - Created automated SQL scripts to streamline client billing processes, improving accuracy and efficiency.
-
-3. **[Cloud Solutions Presentation – Tyler Connect](#)**  
-   - Presented sustainable cloud solutions to key stakeholders at Tyler Connect, driving interest in ERP SaaS products.
 
 ---
 
