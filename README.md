@@ -11,9 +11,9 @@
 ---
 
 ## Projects
-&#x2B07; ***Click the link below to be redirected to my Portfolio repository*** &#x2B07;
-### **[View My Projects Portfolio](https://github.com/therightboat/portfolio)**
-- A collection of projects showcasing my work in data analysis and visualization.
+&#x2B07; *Click the link below to be redirected to my Portfolio repository.*
+
+### **[View My Projects Portfolio](https://github.com/therightboat/portfolio)**: A collection of projects showcasing my work in data analysis and visualization.
 
 ---
 
