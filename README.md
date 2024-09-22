@@ -18,7 +18,7 @@ I believe in the power of organization and efficiency when managing both project
 
 
 ## Projects
-### [View My Projects Portfolio](https://github.com/therightboat/portfolio)
+### **[View My Projects Portfolio](https://github.com/therightboat/portfolio)**
 - A collection of projects showcasing my work in data analysis and visualization.
 
 
@@ -32,14 +32,15 @@ As a leader, I’m dedicated to fostering a collaborative and inclusive environm
 
 ## Technical Expertise
 
-Over the years, I have developed proficiency in several technical tools and platforms that enable me to deliver high-quality solutions to complex business challenges. My experience spans across:
+Throughout my career, I have honed my expertise in a variety of technical tools and platforms, allowing me to deliver effective solutions to complex business challenges. My technical skills include:
 
-- **Power BI**: Creating detailed business dashboards, tracking KPIs, and visualizing trends that inform decision-making at the executive level.
-- **SQL**: Designing and optimizing database queries for efficient data management, troubleshooting, and automation of processes.
-- **C#**: Implementing custom solutions and automating processes in a fast-moving SaaS environment.
-- **Power Automate**: Streamlining workflows and automating repetitive tasks to increase productivity and reduce manual errors.
-- **Microsoft Excel & Office Suite**: Managing large data sets, building complex formulas, and generating detailed reports.
-- **Tableau**: Currently exploring new features to enhance data visualization and storytelling.
+- **Power BI**: Crafting comprehensive business dashboards, tracking key performance indicators (KPIs), and visualizing data trends to support strategic decision-making at the executive level.
+- **SQL**: Developing and optimizing database queries for efficient data management, troubleshooting, and automating business processes.
+- **C#**: Building custom applications and automating workflows within a fast-paced SaaS environment, enhancing productivity and operational efficiency.
+- **Power Automate**: Streamlining business processes by automating repetitive tasks, improving accuracy, and boosting overall productivity.
+- **Microsoft Excel & Office Suite**: Managing large datasets, creating complex formulas, and generating in-depth reports to support data-driven decision-making.
+- **Tableau**: Currently expanding my knowledge in Tableau to enhance data visualization and storytelling capabilities, ensuring insights are presented in a compelling and impactful way.
+- **Enterprise Resource Planning (ERP)**: Specialized experience in the Local Government sector, with a main focus on Utility Billing and also incorporating payment solutions, cloud/AWS hosting services, and various third-party integrations. My work includes but is not limited to projects with integrations such as Melissa Data and USPS for bill presorting, as well as payment systems like Tyler Payments, ETS, and OpenEdge. This experience spans diverse needs across thousands of U.S. municipalities, optimizing revenue collection and operational efficiency in highly customized setups.
 
 ---
 
@@ -73,12 +74,6 @@ I'm always open to new ideas, collaborations, and discussions. If you're working
 **Bachelor of Business Administration in Business Analytics**  
 *Graduated Dec 2020*  
 Concentrations: Human Resource Management, Data Analytics, Marketing
-
----
-
-## Projects
-
-
 
 ---
 
