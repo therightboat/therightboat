@@ -1,4 +1,4 @@
-# Brandon Boatright
+<h2>Brandon Boatright</h2>
 
 **Location:** Lubbock, TX  
 **Email:** [brandon.boatright@outlook.com](mailto:brandon.boatright@outlook.com)  
@@ -10,18 +10,18 @@
 
 ---
 
-## About Me
-
-Hi, I'm Brandon Boatright, an experienced Supervisory Team Lead with a passion for solving complex business problems through data-driven solutions and the latest technology. With a strong background in software support (SaaS), cloud computing, and team leadership, I thrive in fast-paced environments where adaptability, multi-tasking, and technical expertise are crucial.
-
-I believe in the power of organization and efficiency when managing both projects and teams. To streamline workflows and ensure timely project delivery, I use tools like **Asana** and **Microsoft OneNote** to organize tasks, track progress, and prioritize actions. Recently, I've begun exploring **Tableau** to enhance my data visualization skills, further improving my ability to communicate insights effectively to stakeholders. During my time as an analyst and throughout my studies at Texas Tech University, I have experience developing data-driven solutions to address real-world and organizational challenges, utilizing tools such as **GitHub**, **Power BI**, **SQL**, and various internal systems at my current employer.
-
-
 ## Projects
 &#x2B07; ***Click the link below to be redirected to my Portfolio repository*** &#x2B07;
 ### **[View My Projects Portfolio](https://github.com/therightboat/portfolio)**
 - A collection of projects showcasing my work in data analysis and visualization.
 
+---
+
+## About Me
+<img src="https://github.com/therightboat/images/blob/main/BBoatright_Profile_Image.png" alt="Brandon Boatright" width="200" />
+Hi, I'm Brandon Boatright, an experienced Supervisory Team Lead with a passion for solving complex business problems through data-driven solutions and the latest technology. With a strong background in software support (SaaS), cloud computing, and team leadership, I thrive in fast-paced environments where adaptability, multi-tasking, and technical expertise are crucial.
+
+I believe in the power of organization and efficiency when managing both projects and teams. To streamline workflows and ensure timely project delivery, I use tools like **Asana** and **Microsoft OneNote** to organize tasks, track progress, and prioritize actions. Recently, I've begun exploring **Tableau** to enhance my data visualization skills, further improving my ability to communicate insights effectively to stakeholders. During my time as an analyst and throughout my studies at Texas Tech University, I have experience developing data-driven solutions to address real-world and organizational challenges, utilizing tools such as **GitHub**, **Power BI**, **SQL**, and various internal systems at my current employer.
 
 ---
 
@@ -87,8 +87,6 @@ Outside of work, I enjoy:
 - Spending time with friends and family
 
 ---
-
-Feel free to explore my repositories to see how I utilize my technical skills in real-world projects! If you'd like to collaborate or chat about data analytics, cloud solutions, or software support, don't hesitate to reach out!
 
 <!---
 therightboat/therightboat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
