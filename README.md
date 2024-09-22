@@ -18,6 +18,7 @@ I believe in the power of organization and efficiency when managing both project
 
 
 ## Projects
+***Click the link below to be redirected to my Portfolio repository.***
 ### **[View My Projects Portfolio](https://github.com/therightboat/portfolio)**
 - A collection of projects showcasing my work in data analysis and visualization.
 
